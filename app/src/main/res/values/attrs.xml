@@ -1,0 +1,5 @@
+<resources>
+    <attr name="eventItemBackground" format="color"/>
+    <attr name="eventItemTextColor" format="color"/>
+    <attr name="eventItemTextColorSecondary" format="color"/>
+</resources>
